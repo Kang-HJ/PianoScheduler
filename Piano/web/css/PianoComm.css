@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+.sunTitle{ 
+	background-color: #FF0000; font-weight: bold; color: #FFFFFF 
+}
+
+.setTitle{
+	background-color: #0000FF;  font-weight: bold; color: #FFFFFF 
+}
+
+#dayTitle{
+	font-size:20px; font-family: 맑은고딕; font-weight: bold; vertical-align: top;
+}
+
+.blank{
+	background-color: #F1F1F1
+}
+.sun { color: #FF1049; font-weight: bold;}
+.sat { color: #003CFF; font-weight: bold;}
+.week { color: #333333; }
